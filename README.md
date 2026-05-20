@@ -90,7 +90,7 @@ pentool_v2/
 ### Tezkor o'rnatish
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pentool.git
+git clone https://github.com/darkanonyrnous/pentool.git
 cd pentool
 chmod +x install.sh
 ./install.sh
